@@ -17,4 +17,4 @@
     * Mình sẽ demo thực hiện tác vụ gửi tin nhắn trên jupyter notebook demo_03.ipynb
     
 ### Video:
-+ 1: 
++ 1: https://drive.google.com/drive/folders/1k9b5cxGzf5F5GcIusdbfxtfY-b4843We?usp=share_link
